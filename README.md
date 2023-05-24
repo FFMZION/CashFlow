@@ -1,7 +1,9 @@
 # Challenge Cash Flow
 Veja a visão geral de **implementações em microsserviços com ferramentas .net** no desafio **Fluxo de Caixa**
 
-![Microservice Architecture Challenge](https://github.com/FFMZION/CashFlow/assets/31661893/dc90ccc9-2905-4758-94a9-fa209245c163)
+
+![Microservice Architecture Challenge](https://github.com/FFMZION/CashFlow/assets/31661893/aee65d5d-5232-49c2-971d-6c473364a995)
+
 
 
 ![component diagram challenge](https://github.com/FFMZION/CashFlow/assets/31661893/de5a3694-2054-47ef-bd7e-6a319d51ffb0)
@@ -20,6 +22,11 @@ Veja a visão geral de **implementações em microsserviços com ferramentas .ne
 #### Microsserviço WebUI Challenge.Web
 * Aplicativo Web ASP.NET Core com modelo Bootstrap e MVC
 * Chamada para **APIs Ocelot com HttpClientFactory**
+
+#### Microsserviço Duende Identity Server 
+* IdentityServer fornece controle total sobre sua interface do usuário, UX, lógica de negócios e dados.
+* Garantia de interoperabilidade e práticas de segurança comprovadas.
+* Utilização dos protocolos **OAuth e OpenID Connect**
 
 #### Microsserviço Ocelot Gateway de API
 * Implementar **Gateway de API com Ocelot**
