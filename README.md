@@ -4,7 +4,8 @@ Veja a visão geral de **implementações em microsserviços com ferramentas .ne
 ![Microservice Architecture Challenge](https://github.com/FFMZION/CashFlow/assets/31661893/dc90ccc9-2905-4758-94a9-fa209245c163)
 
 
-![component diagram challenge](https://github.com/FFMZION/CashFlow/assets/31661893/8306706a-c22b-4ccf-a9e3-b30715f47b29)
+![component diagram challenge](https://github.com/FFMZION/CashFlow/assets/31661893/de5a3694-2054-47ef-bd7e-6a319d51ffb0)
+
 
 ### Microsserviço de CashFlowApi que inclui;
 * Aplicativo de API da Web ASP.NET Core
