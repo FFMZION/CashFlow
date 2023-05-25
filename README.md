@@ -10,7 +10,8 @@ Veja a visão geral de **implementações em microsserviços com ferramentas .ne
 
 
 
-![Cash Flow Context Diagram](https://github.com/FFMZION/CashFlow/assets/31661893/9684230d-164e-44d7-b427-a61f157de1ed)
+![Cash Flow Context Diagram](https://github.com/FFMZION/CashFlow/assets/31661893/ff25866f-3ade-462e-8e13-8a08dc050df4)
+
 
 
 ### Microsserviço de CashFlowApi que inclui;
