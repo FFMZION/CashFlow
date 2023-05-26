@@ -9,6 +9,11 @@ Veja a visão geral de **implementações em microsserviços com ferramentas .ne
 ![component diagram challenge](https://github.com/FFMZION/CashFlow/assets/31661893/de5a3694-2054-47ef-bd7e-6a319d51ffb0)
 
 
+
+![Cash Flow Context Diagram](https://github.com/FFMZION/CashFlow/assets/31661893/ff25866f-3ade-462e-8e13-8a08dc050df4)
+
+
+
 ### Microsserviço de CashFlowApi que inclui;
 * Aplicativo de API da Web ASP.NET Core
 * Princípios da API REST, operações CRUD
